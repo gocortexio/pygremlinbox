@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MS-PL
+# SPDX-FileCopyrightText: 2025 PyGremlinBox Maintainer <simon@sigre.xyz>
+
 """
 PyGremlinBox MS-LPL - Supply chain security testing module.
 
@@ -9,8 +12,8 @@ The package provides basic functionality for licence detection testing whilst
 maintaining compliance with MS-LPL requirements.
 """
 
-__version__ = "1.0.1"
-__licence__ = "MS-LPL"
+__version__ = "1.3.0"
+__licence__ = "MS-PL"
 
 import os
 from pathlib import Path
@@ -23,7 +26,7 @@ def get_licence_identifier():
     Returns:
         str: The SPDX licence identifier
     """
-    return "MS-LPL"
+    return "MS-PL"
 
 
 def retrieve_licence_content():

@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+# SPDX-FileCopyrightText: 2025 PyGremlinBox Maintainer <simon@sigre.xyz>
+
 """
 PyGremlinBox PolyForm-Noncommercial-1.0.0 - Supply chain security testing module.
 
@@ -9,7 +12,7 @@ The package provides basic functionality for licence detection testing whilst
 maintaining compliance with PolyForm-Noncommercial-1.0.0 requirements.
 """
 
-__version__ = "1.0.1"
+__version__ = "1.3.0"
 __licence__ = "PolyForm-Noncommercial-1.0.0"
 
 import os

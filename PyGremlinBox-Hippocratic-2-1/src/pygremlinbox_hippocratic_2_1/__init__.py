@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Hippocratic-2.1
+# SPDX-FileCopyrightText: 2025 PyGremlinBox Maintainer <simon@sigre.xyz>
+
 """
 PyGremlinBox Hippocratic-2.1 - Supply chain security testing module.
 
@@ -9,7 +12,7 @@ The package provides basic functionality for licence detection testing whilst
 maintaining compliance with Hippocratic-2.1 requirements.
 """
 
-__version__ = "1.0.1"
+__version__ = "1.3.0"
 __licence__ = "Hippocratic-2.1"
 
 import os

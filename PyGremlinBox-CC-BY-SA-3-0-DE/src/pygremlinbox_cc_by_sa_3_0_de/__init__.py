@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: CC-BY-SA-3.0-DE
+# SPDX-FileCopyrightText: 2025 PyGremlinBox Maintainer <simon@sigre.xyz>
+
 """
 PyGremlinBox CC-BY-SA-3.0-DE - Supply chain security testing module.
 
@@ -9,7 +12,7 @@ The package provides basic functionality for licence detection testing whilst
 maintaining compliance with CC-BY-SA-3.0-DE requirements.
 """
 
-__version__ = "1.0.1"
+__version__ = "1.3.0"
 __licence__ = "CC-BY-SA-3.0-DE"
 
 import os

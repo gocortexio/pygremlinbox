@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: EUPL-1.2
+# SPDX-FileCopyrightText: 2025 PyGremlinBox Maintainer <simon@sigre.xyz>
+
 """
 PyGremlinBox EUPL-1.2 - Supply chain security testing module.
 
@@ -9,7 +12,7 @@ The package provides basic functionality for licence detection testing whilst
 maintaining compliance with EUPL-1.2 requirements.
 """
 
-__version__ = "1.0.0"
+__version__ = "1.3.0"
 __licence__ = "EUPL-1.2"
 
 import os

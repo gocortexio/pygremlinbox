@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: GPL-2.0-only
+# SPDX-FileCopyrightText: 2025 PyGremlinBox Maintainer <simon@sigre.xyz>
+
 """
 PyGremlinBox GPL-2.0 - Supply chain security testing module.
 
@@ -9,8 +12,8 @@ The package provides basic functionality for licence detection testing whilst
 maintaining compliance with GPL-2.0 requirements.
 """
 
-__version__ = "1.0.0"
-__licence__ = "GPL-2.0"
+__version__ = "1.3.0"
+__licence__ = "GPL-2.0-only"
 
 import os
 from pathlib import Path
@@ -23,7 +26,7 @@ def get_licence_identifier():
     Returns:
         str: The SPDX licence identifier
     """
-    return "GPL-2.0"
+    return "GPL-2.0-only"
 
 
 def retrieve_licence_content():

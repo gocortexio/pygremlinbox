@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: C-UDA-1.0
+# SPDX-FileCopyrightText: 2025 PyGremlinBox Maintainer <simon@sigre.xyz>
+
 """
 PyGremlinBox C-UDA-1.0 - Supply chain security testing module.
 
@@ -9,7 +12,7 @@ The package provides basic functionality for licence detection testing whilst
 maintaining compliance with C-UDA-1.0 requirements.
 """
 
-__version__ = "1.0.1"
+__version__ = "1.3.0"
 __licence__ = "C-UDA-1.0"
 
 import os

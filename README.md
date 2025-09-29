@@ -1,5 +1,8 @@
 ![PyGremlinBox Logo](assets/pygremlinbox-logo.png)
 
+<!-- SPDX-License-Identifier: MIT -->
+<!-- SPDX-FileCopyrightText: 2025 PyGremlinBox Maintainer <simon@sigre.xyz> -->
+
 # PyGremlinBox
 
 PyGremlinBox is a comprehensive container project housing multiple Python modules for supply chain security testing. Each subproject contains different policy implementations that trigger alerts in dependency scanning tools, starting with comprehensive licence coverage, and can be individually published to PyPI.

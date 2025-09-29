@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: APSL-2.0
+# SPDX-FileCopyrightText: 2025 PyGremlinBox Maintainer <simon@sigre.xyz>
+
 """
 PyGremlinBox APSL - Supply chain security testing module.
 
@@ -9,7 +12,7 @@ The package provides basic functionality for licence detection testing whilst
 maintaining compliance with APSL requirements.
 """
 
-__version__ = "1.0.0"
+__version__ = "1.3.0"
 __licence__ = "APSL-2.0"
 
 import os

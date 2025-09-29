@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Unlicense
+# SPDX-FileCopyrightText: 2025 PyGremlinBox Maintainer <simon@sigre.xyz>
+
 """
 PyGremlinBox Unlicense - Supply chain security testing module.
 
@@ -9,7 +12,7 @@ The package provides basic functionality for licence detection testing and is
 completely free of copyright restrictions.
 """
 
-__version__ = "1.0.0"
+__version__ = "1.3.0"
 __licence__ = "Unlicense"
 
 import os
