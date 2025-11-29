@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-only
+# SPDX-License-Identifier: GPL-3.0
 # SPDX-FileCopyrightText: 2025 PyGremlinBox Maintainer <simon@sigre.xyz>
 
 """
@@ -12,8 +12,8 @@ The package provides basic functionality for licence detection testing whilst
 maintaining compliance with GPL-3.0 requirements.
 """
 
-__version__ = "1.3.0"
-__licence__ = "GPL-3.0-only"
+__version__ = "1.4.6"
+__licence__ = "GPL-3.0"
 
 import os
 from pathlib import Path
@@ -26,7 +26,7 @@ def get_licence_identifier():
     Returns:
         str: The SPDX licence identifier
     """
-    return "GPL-3.0-only"
+    return "GPL-3.0"
 
 
 def retrieve_licence_content():
@@ -61,7 +61,7 @@ def get_package_metadata():
         "version": __version__,
         "licence": __licence__,
         "description": "Supply chain security testing module with GPL-3.0 licence",
-        "spdx_licence_id": "GPL-3.0-only"
+        "spdx_licence_id": "GPL-3.0"
     }
 
 

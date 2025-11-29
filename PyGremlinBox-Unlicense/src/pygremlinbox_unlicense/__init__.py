@@ -12,7 +12,7 @@ The package provides basic functionality for licence detection testing and is
 completely free of copyright restrictions.
 """
 
-__version__ = "1.3.0"
+__version__ = "1.4.6"
 __licence__ = "Unlicense"
 
 import os

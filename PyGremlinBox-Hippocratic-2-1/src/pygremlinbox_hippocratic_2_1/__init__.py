@@ -12,7 +12,7 @@ The package provides basic functionality for licence detection testing whilst
 maintaining compliance with Hippocratic-2.1 requirements.
 """
 
-__version__ = "1.3.0"
+__version__ = "1.4.6"
 __licence__ = "Hippocratic-2.1"
 
 import os

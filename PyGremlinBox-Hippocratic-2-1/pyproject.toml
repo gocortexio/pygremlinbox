@@ -7,7 +7,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pygremlinbox-hippocratic-2-1"
-version = "1.3.0"
+version = "1.4.6"
 description = "PyGremlinBox Hippocratic-2.1 - Supply chain security testing module with Hippocratic Licence v2.1"
 license = {text = "Hippocratic-2.1"}  # SPDX: Hippocratic-2.1
 authors = [

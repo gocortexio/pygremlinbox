@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: LGPL-3.0-only
+# SPDX-License-Identifier: LGPL-3.0
 # SPDX-FileCopyrightText: 2025 PyGremlinBox Maintainer <simon@sigre.xyz>
 
 """
@@ -12,8 +12,8 @@ The package provides basic functionality for licence detection testing whilst
 maintaining compliance with LGPL-3.0 requirements.
 """
 
-__version__ = "1.3.0"
-__licence__ = "LGPL-3.0-only"
+__version__ = "1.4.6"
+__licence__ = "LGPL-3.0"
 
 import os
 from pathlib import Path
@@ -26,7 +26,7 @@ def get_licence_identifier():
     Returns:
         str: The SPDX licence identifier
     """
-    return "LGPL-3.0-only"
+    return "LGPL-3.0"
 
 
 def retrieve_licence_content():

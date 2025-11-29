@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: LGPL-2.1-only
+# SPDX-License-Identifier: LGPL-2.1
 # SPDX-FileCopyrightText: 2025 PyGremlinBox Maintainer <simon@sigre.xyz>
 
 """
@@ -12,8 +12,8 @@ The package provides basic functionality for licence detection testing whilst
 maintaining compliance with LGPL-2.1 requirements.
 """
 
-__version__ = "1.3.0"
-__licence__ = "LGPL-2.1-only"
+__version__ = "1.4.6"
+__licence__ = "LGPL-2.1"
 
 import os
 from pathlib import Path
@@ -26,7 +26,7 @@ def get_licence_identifier():
     Returns:
         str: The SPDX licence identifier
     """
-    return "LGPL-2.1-only"
+    return "LGPL-2.1"
 
 
 def retrieve_licence_content():
@@ -61,7 +61,7 @@ def get_package_metadata():
         "version": __version__,
         "licence": __licence__,
         "description": "Supply chain security testing module with LGPL-2.1 licence",
-        "spdx_licence_id": "LGPL-2.1-only"
+        "spdx_licence_id": "LGPL-2.1"
     }
 
 

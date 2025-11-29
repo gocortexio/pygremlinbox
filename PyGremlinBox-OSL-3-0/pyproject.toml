@@ -7,7 +7,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pygremlinbox-osl-3-0"
-version = "1.3.0"
+version = "1.4.6"
 description = "PyGremlinBox OSL-3.0 - Supply chain security testing module with Open Software License v3.0"
 license = {text = "OSL-3.0"}  # SPDX: OSL-3.0
 authors = [

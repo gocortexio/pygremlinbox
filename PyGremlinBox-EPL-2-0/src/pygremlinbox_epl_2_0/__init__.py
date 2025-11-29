@@ -12,7 +12,7 @@ The package provides basic functionality for licence detection testing whilst
 maintaining compliance with EPL-2.0 requirements.
 """
 
-__version__ = "1.3.0"
+__version__ = "1.4.6"
 __licence__ = "EPL-2.0"
 
 import os

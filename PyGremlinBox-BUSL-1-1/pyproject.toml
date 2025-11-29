@@ -7,7 +7,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pygremlinbox-busl-1-1"
-version = "1.3.0"
+version = "1.4.6"
 description = "PyGremlinBox BUSL-1.1 - Supply chain security testing module with Business Source Licence v1.1"
 license = {text = "BUSL-1.1"}  # SPDX: BUSL-1.1
 authors = [

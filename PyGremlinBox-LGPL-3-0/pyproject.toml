@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: LGPL-3.0-only
+# SPDX-License-Identifier: LGPL-3.0
 # SPDX-FileCopyrightText: 2025 PyGremlinBox Maintainer <simon@sigre.xyz>
 
 [build-system]
@@ -7,9 +7,9 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pygremlinbox-lgpl-3-0"
-version = "1.3.0"
+version = "1.4.6"
 description = "PyGremlinBox LGPL-3.0 - Supply chain security testing module with LGPL-3.0 licence"
-license = {text = "LGPL-3.0-only"}  # SPDX: LGPL-3.0-only
+license = {text = "LGPL-3.0"}  # SPDX: LGPL-3.0
 authors = [
     {name = "Supply Chain Security Tester", email = "simon@sigre.xyz"}
 ]

@@ -12,7 +12,7 @@ The package provides basic functionality for licence detection testing whilst
 maintaining compliance with CC-BY-SA-3.0-DE requirements.
 """
 
-__version__ = "1.3.0"
+__version__ = "1.4.6"
 __licence__ = "CC-BY-SA-3.0-DE"
 
 import os
